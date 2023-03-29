@@ -1,0 +1,25 @@
+body{
+    background-color: #EEF6E6;
+    font-size: medium;
+}
+h1{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    background-color: rgb(22, 56, 56);
+    max-width: fit-content;
+}
+.estilorosa{
+    color: rgb(22, 56, 56);
+}
+.estiloazul{
+    color: rgb(22, 56, 56);
+}
+
+img{
+    width: 17rem;
+    height: 22rem;
+    border-radius: 140px;
+}
+h1{ color: #bac7ad ;}
+a{ 
+    text-decoration: none !important;
+}
